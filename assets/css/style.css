@@ -481,8 +481,8 @@ section {
 }
 #about .about-container .background {
   background: url(../img/tatumkats.jpg) center center; /* this sets the image and properties on the about page */
-  width: 300px;
-  height: 450px;
+  max-width: 300px;
+  max-height: 450px;
   margin-bottom: 0px;
 }
 #about .about-container .content {
