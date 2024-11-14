@@ -480,8 +480,9 @@ section {
   padding: 80px 0;
 }
 #about .about-container .background {
-  background: url(../img/tatumkats.jpg) center top no-repeat; /* this sets the image and properties on the about page */
-  min-height: 1200px;
+  background: url(../img/tatumkats.jpg) center center no-repeat; /* this sets the image and properties on the about page */
+  min-height: 3024px;
+  min-width: 4032px;
   margin-bottom: 0px;
 }
 #about .about-container .content {
