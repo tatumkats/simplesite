@@ -476,13 +476,13 @@ section {
 /* A Few Words About Me Section
 --------------------------------*/
 #about {
-  background: #517336;
+  background: #fff;
   padding: 80px 0;
 }
 #about .about-container .background {
   background: url(../img/tatumkats.jpg) center top no-repeat; /* this sets the image and properties on the about page */
-  width: 1080px;
-  height: 1350px;
+  width: 300px;
+  height: 450px;
   margin-bottom: 0px;
 }
 #about .about-container .content {
@@ -535,7 +535,7 @@ section {
   text-transform: uppercase;
 }
 #about .about-container .icon-box .title a {
-  color: #111;
+  color: #517336;
 }
 #about .about-container .icon-box .description {
   margin-left: 80px;
