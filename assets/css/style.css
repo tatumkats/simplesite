@@ -82,7 +82,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 90px;
   transition: all 0.5s;
   z-index: 997;
-  background: rgba(52, 59, 64, 0.9);
+  background: #517336;
 }
 #header #logo h1 {
   font-size: 32px;
@@ -195,7 +195,7 @@ h1, h2, h3, h4, h5, h6 {
   padding: 10px 20px;
   font-size: 14px;
   text-transform: none;
-  color: #666666;
+  color: #000000;
 }
 .navbar .dropdown ul a i {
   font-size: 12px;
